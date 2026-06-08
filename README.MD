@@ -19,9 +19,9 @@ Temas practicados:
 
 ## Estructura del repositorio
 CSharp-Ejercicios/
-├── Semana1/
-│   └ HelloWorld.cs    — variables, arreglos, bucles y flujos
-└── README.md
+  Semana1/
+  HelloWorld.cs    — variables, arreglos, bucles y flujos
+  README.md
 
 ## Plan de estudio
 
