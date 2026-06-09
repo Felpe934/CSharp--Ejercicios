@@ -12,3 +12,4 @@ C:\Users\jcbc_\OneDrive\Escritorio\C# Practica\obj\Debug\net10.0\refint\C# Pract
 C:\Users\jcbc_\OneDrive\Escritorio\C# Practica\obj\Debug\net10.0\C# Practica.pdb
 C:\Users\jcbc_\OneDrive\Escritorio\C# Practica\obj\Debug\net10.0\C# Practica.genruntimeconfig.cache
 C:\Users\jcbc_\OneDrive\Escritorio\C# Practica\obj\Debug\net10.0\ref\C# Practica.dll
+C:\Users\jcbc_\OneDrive\Escritorio\C# Practica\obj\Debug\net10.0\C# Practica.sourcelink.json
