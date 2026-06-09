@@ -27,7 +27,25 @@ CSharp-Ejercicios/
 
 | Fase | Contenido | Estado 
 
-| Semana 1-2 | Fundamentos C# | En curso |
+| Semana 1-2 | Fundamentos C#
+### Semana 1 — Fundamentos de C#
+
+**Dia 1 — HelloWorld.cs**
+- Variables y tipos de datos — int, string, float, double, bool, var, const
+- Interpolacion de strings con $
+- Arreglos — creacion, acceso y modificacion por indice
+- Diccionarios — clave/valor
+- Tuplas
+- Ciclos — for y foreach
+- Flujos — if, else if, else con operadores && y ||
+
+**Dia 2 — Dia2_Calculadora.cs**
+- Calculadora basica con 4 operaciones
+- Lectura de input del usuario con Console.ReadLine()
+- Conversion de tipos con Convert.ToDouble y Convert.ToInt16
+- Validacion de division entre cero con if/else
+
+
 | Semana 3-4 | MySQL + conexion C# | Pendiente 
 | Semana 5-6 | Git avanzado | Pendiente 
 | Semana 7-8 | Proyecto CRUD | Pendiente 
