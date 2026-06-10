@@ -3,20 +3,6 @@
 Repositorio de ejercicios y practicas de C# como parte de mi plan de estudio
 para reforzar fundamentos de programacion sin dependencia de IA.
 
-## Contenido actual
-
-### Semana 1 — Fundamentos de C#
-**Archivo:** HelloWorld.cs
-
-Temas practicados:
-- Variables y tipos de datos — int, string, float, double, bool, var, const
-- Interpolacion de strings con $
-- Arreglos — creacion, acceso y modificacion por indice
-- Diccionarios — clave/valor
-- Tuplas
-- Ciclos — for y foreach
-- Flujos — if, else if, else con operadores && y ||
-
 ## Estructura del repositorio
 CSharp-Ejercicios/
   Semana1/
@@ -44,6 +30,12 @@ CSharp-Ejercicios/
 - Lectura de input del usuario con Console.ReadLine()
 - Conversion de tipos con Convert.ToDouble y Convert.ToInt16
 - Validacion de division entre cero con if/else
+
+**Dia 3 — Dia3_CalculadoraFuncion.cs**
+- Uso de parametros para enviar datos a los metodos
+- Uso de valores de retorno (return) para obtener el resultado de cada operacion
+- Organizacion del codigo separando la logica en funciones reutilizables
+- Practica de estructura if, else if y else junto con metodos y parametros
 
 
 | Semana 3-4 | MySQL + conexion C# | Pendiente 
