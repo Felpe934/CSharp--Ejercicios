@@ -1,7 +1,8 @@
 ﻿
 class HelloWorld
 {
-    static void CursoMoure()
+    static void CursoMoure() 
+    //TODO ESTO VIENE EN EL CANAL DE MOUREDEV,LINK: https://www.youtube.com/watch?v=L-f8u0hwi4Y
     {
             Console.WriteLine("Hello, World!");
         int numero1 = 23; //valor inicial de la variable
@@ -94,7 +95,7 @@ class HelloWorld
          funcion();
           funcion(); //aqui se mandan a llamar 
         funcion2();
-        
+
         Console.WriteLine(funcionretornable(10));
 
 

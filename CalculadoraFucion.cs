@@ -1,6 +1,6 @@
 class Calculadorafuncion
 {
-    static void Main() 
+    static void calculadora2() 
     {
         Console.WriteLine("Que operacion necesitas hacer?");
         Console.Write(" 1.Sumar 2.Restar,3.Multiplicar,4.Dividir");

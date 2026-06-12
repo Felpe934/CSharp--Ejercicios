@@ -37,6 +37,15 @@ CSharp-Ejercicios/
 - Organizacion del codigo separando la logica en funciones reutilizables
 - Practica de estructura if, else if y else junto con metodos y parametros
 
+**Dia 4 — Dia4_ClasesObjetos.cs**
+- Creacion de clases con propiedades, constructor y metodos
+- Uso de propiedades con { get; set; } para encapsular y controlar el acceso a los datos
+- Constructor para asignar valores iniciales al objeto al momento de crearlo
+- Instanciacion de objetos con la palabra clave new
+- Practica con dos clases — Persona y Auto — cada una con sus propios atributos y metodos
+
+
+
 
 | Semana 3-4 | MySQL + conexion C# | Pendiente 
 | Semana 5-6 | Git avanzado | Pendiente 
